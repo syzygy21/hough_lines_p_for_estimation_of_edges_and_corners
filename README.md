@@ -1,0 +1,1 @@
+# hough_lines_p_for_estimation_of_edges_and_corners
