@@ -10,6 +10,7 @@ The following image is a snapshot from the result video that can be found at thi
  <img width="360" alt="result_snapshot" src="https://github.com/user-attachments/assets/80950c79-7630-4cc2-89d1-9ba9f054678a">
 
 The following image shows the result of applying Harris Corner Detection to the video. Refer to the [link](https://drive.google.com/file/d/1wXIrHHwazMF_joHJHdpBxCzFWU5qSB6u/view?usp=sharing) to take a look at the full length video of the result of the Harris Corner Detection.
+
  <img width="360" alt="haris_corner_output" src="https://github.com/user-attachments/assets/22e069f0-a326-4db3-8d10-f7b258409011">
 
 The video at this [link]([link](https://drive.google.com/file/d/1wXIrHHwazMF_joHJHdpBxCzFWU5qSB6u/view?usp=sharing)) is the output after filtering out the exraneous points that come from using Hough Lines Transform by using Harris Corner Detection. It does not make a drastic difference because the initial performance 
